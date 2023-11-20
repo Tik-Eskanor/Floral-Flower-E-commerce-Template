@@ -562,6 +562,10 @@ h1,h2,h3,h4,h5,h6
         padding:0 0.5rem;
         display: inline-block;
     }
+    .cart-icon-wrapper
+    {
+        margin-top:1rem;
+    }
 }
 @media (max-width:500px) 
 {
